@@ -13,7 +13,6 @@ env:
 
 jobs:
   terraform:
-    if: github.repository != "gildembergleite/atividade-terraform-aws-github-actions"
     name: "Terraform Apply"
     runs-on: ubuntu-latest
     permissions:
