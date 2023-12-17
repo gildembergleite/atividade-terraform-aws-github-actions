@@ -8,7 +8,7 @@ on:
 env:
   TF_CLOUD_ORGANIZATION: "gildembergleite"
   TF_API_TOKEN: "${{ secrets.TF_API_TOKEN }}"
-  TF_WORKSPACE: "atividade-terraform-aws-github-actions"
+  TF_WORKSPACE: "atividade-terraform"
   CONFIG_DIRECTORY: "./"
 
 jobs:
