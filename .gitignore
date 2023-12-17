@@ -1,0 +1,6 @@
+# STATE FILES
+*.tfstate
+*.tfstate.backup
+
+# PATH
+.terraform/
