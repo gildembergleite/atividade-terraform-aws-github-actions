@@ -13,3 +13,6 @@
 
 ### Pipeline working
 ![](prints/Screenshot%20from%202023-12-17%2020-36-03.png)
+
+### Curl request working
+![](prints/Screenshot%20from%202023-12-18%2015-43-43.png)
